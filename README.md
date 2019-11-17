@@ -1,2 +1,2 @@
-# Joint-Projects
-Major Projects 
+# Major Projects
+
